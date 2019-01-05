@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="基本"/>
+	<classpathentry kind="src" path="图形界面"/>
+	<classpathentry kind="src" path="数字处理"/>
+	<classpathentry kind="src" path="输入输出流"/>
+	<classpathentry kind="src" path="反射"/>
+	<classpathentry kind="src" path="线程"/>
+	<classpathentry kind="src" path="正则表达式"/>
+	<classpathentry kind="src" path="容器"/>
+	<classpathentry kind="src" path="泛型"/>
+	<classpathentry kind="src" path="数据结构"/>
+	<classpathentry kind="src" path="网络编程"/>
+	<classpathentry kind="src" path="实例"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
